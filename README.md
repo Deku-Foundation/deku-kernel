@@ -1,6 +1,6 @@
 # Deku Kernel Integration
 
-Kernel configuration, upstream tracking and narrowly scoped patches for Deku Linux.
+Tracks upstream Linux versions, kernel configuration and any security-relevant patch decisions for Deku Linux.
 
 ## Status
 
